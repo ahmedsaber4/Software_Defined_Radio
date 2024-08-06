@@ -1,1 +1,2 @@
 # Software_Defined_Radio
+This repository contains the implementation of a Narrowband Internet of Things (NB-IoT) base station using software-defined radio (SDR) in MATLAB. The project was developed as part of a Digital Signal Processing (DSP) course and includes both transmitter and receiver designs, along with a finite impulse response (FIR) digital filter for processing NB-IoT uplink complex baseband waveforms.
